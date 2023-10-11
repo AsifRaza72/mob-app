@@ -26,3 +26,12 @@
     text-align: right;
    
   }
+  
+.res_ip {
+  height: 3vw;
+  border-radius: 16px;
+  border: 3px solid #1d55ae;
+  padding-left: 15px;
+  font-weight: bolder;
+  width: 33vw;
+}
